@@ -64,6 +64,19 @@ Workflow Automation
 
 ## 🛠️ Tools & Technologies
 
-<img src=" , https://github.com/amewulonu/amewulonu-github-profile/tree/13b907b82d1ecf7227672becba7cccabe1a8d7c1/images"/>
+<p align="center">
+<img src="images/AzureDataLake_Gen2Connector.png" width="100" alt="Azure Data Lake Gen2 Connector"/>
+<img src="images/AzureDatabricks.png" width="100" alt="Azure Databricks"/>
+<img src="images/GitHub.png" width="100" alt="GitHub"/>
+<img src="images/JSON.png" width="100" alt="JSON"/>
+<img src="images/Java.jpg" width="100" alt="Java"/>
+<br>
+<img src="images/MedalionLayering.png" width="100" alt="Medalion Layering"/>
+<img src="images/PostgreSQL.png" width="100" alt="PostgreSQL"/>
+<img src="images/Power BI.webp" width="100" alt="Power BI"/>
+<img src="images/Python.png" width="100" alt="Python"/>
+<img src="images/Sqlserver icon.png" width="100" alt="SQL Server"/>
+<img src="images/VSCODE.png" width="100" alt="VS Code"/>
+</p>
 
 ⭐ I enjoy building data systems that turn complex information into clear insights that support better decision-making.
