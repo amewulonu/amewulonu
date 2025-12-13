@@ -64,17 +64,25 @@ Workflow Automation
 
 ## 🛠️ Tools & Technologies
 
-![AzureDataLake_Gen2Connector.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/AzureDataLake_Gen2Connector.png)
-![AzureDatabricks.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/AzureDatabricks.png)
-![GitHub.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/GitHub.png)
-![JSON.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/JSON.png)
-![Java.jpg](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Java.jpg)
-![MedalionLayering.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/MedalionLayering.png)
-![PostgreSQL.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/PostgreSQL.png)
-![Power BI.webp](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Power%20BI.webp)
-![Python.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Python.png)
-![Sqlserver icon.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Sqlserver%20icon.png)
-![VSCODE.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/VSCODE.png)
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/AzureDataLake_Gen2Connector.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/AzureDatabricks.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/GitHub.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/JSON.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/Java.jpg" width="60" />
+  <br><br>
+  <!-- Row 2 -->
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/MedalionLayering.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/PostgreSQL.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/Power%20BI.webp" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/Python.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/Sqlserver%20icon.png" width="60" />
+  <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/VSCODE.png" width="60" />
+</p>
+
 
 
 ⭐ I enjoy building data systems that turn complex information into clear insights that support better decision-making.
