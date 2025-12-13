@@ -13,6 +13,7 @@ profile = {
     "current_role": "SQL Database Administrator",
     "languages": ["SQL", "Python", "Java"],
     "focus": "Data Engineering & Data Architecture"
+    "email_address": "amyewulonu@gmail.com"
 }
 ```
 
@@ -64,8 +65,6 @@ Workflow Automation
 
 ## 🛠️ Tools & Technologies
 
-## 🛠️ Tools & Technologies
-
 <p align="center">
   <!-- Row 1 -->
   <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/AzureDataLake_Gen2Connector.png" width="60" />
@@ -82,7 +81,5 @@ Workflow Automation
   <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/Sqlserver%20icon.png" width="60" />
   <img src="https://github.com/amewulonu/amewulonu-github-profile/blob/main/images/VSCODE.png" width="60" />
 </p>
-
-
 
 ⭐ I enjoy building data systems that turn complex information into clear insights that support better decision-making.
