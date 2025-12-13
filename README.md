@@ -66,12 +66,17 @@ Workflow Automation
 Some Tools I Have Used and Learned
 ### Tools & Technologies
 
+## 🛠️ Tools & Technologies
+
+<!-- Row 1 -->
 ![Databricks](https://img.shields.io/badge/Databricks-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
+
+<!-- Row 2 -->
 ![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft-sql-server-integration-services&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=sql-server&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
