@@ -64,19 +64,17 @@ Workflow Automation
 
 ## 🛠️ Tools & Technologies
 
-<p align="center">
-<img src="images/AzureDataLake_Gen2Connector.png" width="100" alt="Azure Data Lake Gen2 ![Alt Text]( https://github.com/amewulonu/amewulonu-github-profile/blob/a04e40c42818061836f4df3294f1d0d71217c9ce/images/AzureDataLake_Gen2Connector.png)
-<img src="images/AzureDatabricks.png" width="100" alt="Azure Databricks"/>
-<img src="images/GitHub.png" width="100" alt="GitHub"/>
-<img src="images/JSON.png" width="100" alt="JSON"/>
-<img src="images/Java.jpg" width="100" alt="Java"/>
-<br>
-<img src="images/MedalionLayering.png" width="100" alt="Medalion Layering"/>
-<img src="images/PostgreSQL.png" width="100" alt="PostgreSQL"/>
-<img src="images/Power BI.webp" width="100" alt="Power BI"/>
-<img src="images/Python.png" width="100" alt="Python"/>
-<img src="images/Sqlserver icon.png" width="100" alt="SQL Server"/>
-<img src="images/VSCODE.png" width="100" alt="VS Code"/>
-</p>
+![AzureDataLake_Gen2Connector.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/AzureDataLake_Gen2Connector.png)
+![AzureDatabricks.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/AzureDatabricks.png)
+![GitHub.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/GitHub.png)
+![JSON.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/JSON.png)
+![Java.jpg](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Java.jpg)
+![MedalionLayering.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/MedalionLayering.png)
+![PostgreSQL.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/PostgreSQL.png)
+![Power BI.webp](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Power%20BI.webp)
+![Python.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Python.png)
+![Sqlserver icon.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/Sqlserver%20icon.png)
+![VSCODE.png](https://github.com/amewulonu/amewulonu-github-profile/blob/67f8653db0623f3de952468336528c135c463113/images/VSCODE.png)
+
 
 ⭐ I enjoy building data systems that turn complex information into clear insights that support better decision-making.
