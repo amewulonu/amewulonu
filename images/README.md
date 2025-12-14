@@ -27,49 +27,49 @@ profile = {
 
 ## 🛠️ Technical Skills
 **Databases & SQL**
-SQL Server, MySQL, PostgreSQL (pgAdmin)
-Query optimisation, indexing, and data modelling
+- SQL Server, MySQL, PostgreSQL (pgAdmin)
+- Query optimisation, indexing, and data modelling
 
 **Data Engineering & Cloud**
-Azure Data Factory
-Azure Databricks
-ETL / ELT pipelines
-Python for data automation
+- Azure Data Factory
+- Azure Databricks
+- ETL / ELT pipelines
+- Python for data automation
 
 **Analytics & Visualisation**
-Power BI (interactive dashboards, business insights)
+- Power BI (interactive dashboards, business insights)
 
 **Data Integration**
-SSIS
-Data migration and transformation
+- SSIS
+- Data migration and transformation
 
 ## 🎓 Education & Training
-PhD in Administrative Management
-M.Sc. in Political Science (Public Administration)
-B.Sc. in Government & Public Administration
-Software Development Boot Camp – Python
-Software Development Boot Camp – Java
-Self-taught SQL Developer & Database Designer
+- PhD in Administrative Management
+- M.Sc. in Political Science (Public Administration)
+- B.Sc. in Government & Public Administration
+- Software Development Boot Camp – Python
+- Software Development Boot Camp – Java
+- Self-taught SQL Developer & Database Designer
 
 ## 💼 Professional Experience
-SQL Database Administrator
-Medical Secretary (Healthcare Data & Governance)
-Research Data Administrator
-Administrative / Data Analyst
+- SQL Database Administrator
+- Medical Secretary (Healthcare Data & Governance)
+- Research Data Administrator
+- Administrative/Data Analyst
 
 ## 🔍 Areas of Interest
-Data Architecture & Scalable Data Models
-Data Engineering & Analytics Platforms
-Python Automation & ETL Pipelines
-Power BI Reporting & Business Intelligence
-Cloud Data Platforms
-DevOps & CI/CD for Data Workflows
+- Data Architecture & Scalable Data Models
+- Data Engineering & Analytics Platforms
+- Python Automation & ETL Pipelines
+- Power BI Reporting & Business Intelligence
+- Cloud Data Platforms
+- DevOps & CI/CD for Data Workflows
 
 ## 📚 Currently Learning
-Azure Databricks (Advanced)
-Python for Data Automation
-ERD & Dimensional Modelling
-Workflow Automation
+- Azure Databricks (Advanced)
+- Python for Data Automation
+- ERD & Dimensional Modelling
+- Workflow Automation
 
 ## 🛠️ Tools & Technologies
 
