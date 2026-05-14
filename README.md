@@ -9,7 +9,7 @@ I enjoy solving complex data problems, continuously developing my technical skil
 ```python
 profile = {
     "name": "Amarachi Ewulonu",
-    "location": "Trowbridge, United Kingdom",
+    "location": "Coventry, United Kingdom",
     "current_role": "SQL Database Administrator",
     "languages": ["SQL", "Python", "Java"],
     "focus": "Data Engineering & Data Architecture"
