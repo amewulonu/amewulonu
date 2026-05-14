@@ -13,7 +13,7 @@ profile = {
     "current_role": "Data Quality Administrator",
     "previous_role": "SQL Database Administrator",
     "languages": ["SQL", "Python", "Java"],
-"specialities": ["Data Engineering", "SQL Server", "ETL Pipelines", "Data Modelling", "Healthcare Informatics"],
+    "specialities": ["Data Engineering", "SQL Server", "ETL Pipelines", "Data Modelling", "Healthcare Informatics"],
     "interests": ["Data Engineering", "Cloud Technologies", "Healthcare Informatics", "Data Architecture"],
     "email_address": "amyewulonu@gmail.com"
 }
