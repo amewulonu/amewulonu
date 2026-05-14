@@ -10,9 +10,10 @@ I enjoy solving complex data problems, continuously developing my technical skil
 profile = {
     "name": "Amarachi Ewulonu",
     "location": "Coventry, United Kingdom",
-    "current_role": "SQL Database Administrator",
+    "current_role": "Data Quality Administrator",
+    "previous_role": "SQL Database Administrator",
     "languages": ["SQL", "Python", "Java"],
-    "focus": "Data Engineering & Data Architecture"
+    "focus": "Data Engineering & Data Architecture",
     "email_address": "amyewulonu@gmail.com"
 }
 ```
